@@ -2,4 +2,4 @@
 
 > my test 1
 
-> d.c test 0
+> d.c test 1
